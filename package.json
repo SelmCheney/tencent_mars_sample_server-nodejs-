@@ -1,0 +1,25 @@
+{
+  "name": "tencent_mars_sample_server-nodejs",
+  "version": "1.0.0",
+  "description": "tencent mars nodejs sample server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelmCheney/tencent_mars_sample_server-nodejs-.git"
+  },
+  "author": "Cheney Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SelmCheney/tencent_mars_sample_server-nodejs-/issues"
+  },
+  "homepage": "https://github.com/SelmCheney/tencent_mars_sample_server-nodejs-#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "protobufjs": "^6.8.3"
+  }
+}
